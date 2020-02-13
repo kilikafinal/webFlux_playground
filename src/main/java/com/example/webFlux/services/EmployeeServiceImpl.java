@@ -1,6 +1,6 @@
 package com.example.webFlux.services;
 
-import com.example.webFlux.EmployeeRepository;
+import com.example.webFlux.repositories.EmployeeRepository;
 import com.example.webFlux.model.Employee;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

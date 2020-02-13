@@ -1,4 +1,4 @@
-package com.example.webFlux;
+package com.example.webFlux.repositories;
 
 import com.example.webFlux.model.Employee;
 import org.springframework.data.mongodb.repository.Query;
